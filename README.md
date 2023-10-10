@@ -11,7 +11,8 @@
 ##
 
 
-![jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose5556&show_icons=true&theme=radical)
+![jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose5556&show_icons=true&line_height=28.9&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose5556&layout=donut&line_height=10&card_width=330&theme=radical&size_weight=1&count_weight=0.5&)](https://github.com/jose5556/github-readme-stats)
 
 ## Tecnologies that I use
 
