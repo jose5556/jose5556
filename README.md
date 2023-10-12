@@ -3,7 +3,7 @@
 <br>
 
 <div>
-<!-- <a href="https://www.linkedin.com/in/developer-jose-meneses/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> !-->
+<a href="https://www.linkedin.com/in/developer-jose-meneses/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="mailto:josefilmeneses@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
                                                               
 </div>
@@ -11,7 +11,9 @@
 ##
 
 
+<!--
 ![jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose5556&show_icons=true&line_height=28.9&theme=radical)
+!-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose5556&layout=donut&theme=radical&size_weight=1&count_weight=0.5&)](https://github.com/jose5556/github-readme-stats)
 
 ## Tecnologies that I use:
