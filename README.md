@@ -11,9 +11,8 @@
 ##
 
 
-<!--
 ![jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose5556&show_icons=true&line_height=28.9&theme=radical)
-!-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose5556&layout=donut&theme=radical&size_weight=1&count_weight=0.5&)](https://github.com/jose5556/github-readme-stats)
 
 ## Tecnologies that I use:
@@ -29,5 +28,5 @@
 ## Currently studying:
 
 <div>
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="react" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
