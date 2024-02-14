@@ -33,5 +33,5 @@ I'm a Software Development Student, currently studying at 42 Porto.
 ##
 
 <div>
-  <img align="center" alt="grafico" src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg">
+  <img align="center" alt="grafico" src="https://img.shields.io/github/watchers/{jose5556}.svg">
 </div>
