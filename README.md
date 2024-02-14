@@ -1,6 +1,6 @@
 ### Hello world! My name is José and be welcome to my profile.
 
-I'm Rui Pires, a Software Development Student, currently studying at 42 Porto.
+I'm a Software Development Student, currently studying at 42 Porto.
 
 <br>
 
