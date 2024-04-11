@@ -29,9 +29,3 @@ I'm a Software Development Student, currently studying at 42 Porto.
 <div>
   <img align="center" alt="react" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
-
-##
-
-<div>
-  <img align="center" alt="grafico" src="https://img.shields.io/github/watchers/jose5556/jose5556.svg">
-</div>
