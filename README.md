@@ -1,4 +1,8 @@
-### Hello world! My name is José and be welcome to my profile.
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+world+!;" />
+</h1>
+
+### My name is José and be welcome to my profile.
 
 I'm a Software Development Student, currently studying at 42 Porto.
 
