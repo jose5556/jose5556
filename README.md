@@ -18,7 +18,12 @@ I'm a Software Development Student, currently studying at 42 Porto.
 </div>
   
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose5556&layout=donut&theme=radical&size_weight=1&count_weight=0.5&)](https://github.com/jose5556/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/jose5556/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose5556&layout=donut&theme=radical&size_weight=1&count_weight=0.5&">
+  </a>
+</div>
+
 
 <h3 align="center">
   Tecnologies that I use:
