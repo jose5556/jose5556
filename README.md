@@ -7,7 +7,7 @@ My name is José and be welcome to my profile.
 </h1>
 
 <h3 align="center">
-I'm a Software Development Student, currently studying at 42 Porto.
+I'm a Software Development Student, currently at 42 Porto and SEA:ME.
 </h3>
 
 <br>
